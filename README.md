@@ -1,5 +1,4 @@
 # IoT-Intrusion-Detection
-# IoT Intrusion Detection
 
 ## Overview
 This research project explores intelligent intrusion detection for Internet of Things (IoT) networks using Graph Neural Networks (GNNs) and Federated Learning (FL).
